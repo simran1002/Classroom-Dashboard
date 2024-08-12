@@ -1,7 +1,3 @@
-Here's the corrected version of the `README.md` file:
-
----
-
 # Classroom Website
 
 This is a full-stack classroom management website built using Node.js, Express, MongoDB, and React.js. The application provides role-based access for principals, teachers, and students, allowing for user management, classroom assignments, and timetable creation.
@@ -39,7 +35,7 @@ This is a full-stack classroom management website built using Node.js, Express, 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/classroom-website.git
+git clone https://github.com/simran1002/Classroom-Dashboard.git
 cd classroom-website
 ```
 
@@ -108,7 +104,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributing
 
 Feel free to fork this repository and submit pull requests if you have any improvements or new features in mind. Contributions are always welcome!
-
----
-
-This `README.md` file now correctly outlines the steps for setting up the project in a local environment.
